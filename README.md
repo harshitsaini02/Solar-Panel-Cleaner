@@ -12,8 +12,8 @@ Dust accumulation on solar panels reduces efficiency and requires regular manual
 A linear-motion cleaning mechanism mounted on the solar panel frame that travels across the panel surface and removes dust.
 
 ## Team
-- Harry
-- Team Members (Add Names)
+- Harshit saini
+- Krishna Yadav 
 
 ## Components
 - Arduino Uno
@@ -35,9 +35,6 @@ Current Stage: Design & Prototype Development
 - Rain detection
 - IoT monitoring
 - Solar-powered charging
-
-## Images
-(Add project images here)
 
 ## License
 Educational Project
